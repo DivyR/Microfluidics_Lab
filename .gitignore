@@ -1,0 +1,6 @@
+*.docx
+/resources
+
+# saves about 200MB of space due to ~30 large .tif images
+/images
+*.tif
