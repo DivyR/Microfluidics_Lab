@@ -1,6 +1,6 @@
-# Microfluidic_Lab
+# Microfluidics_Lab
 
-Low-exposure snapshots were collected at the University of Toronto in a IBBME facility specifically for this lab and processed using ImageJ. The extracted data set was analyzed in Juypter Notebook to determine quantifiable relationships and error analysis of the collected data.
+Low-exposure snapshots were collected at the University of Toronto in a IBBME facility specifically for this lab and processed using ImageJ. The extracted data set was analyzed in Jupyter Notebook to determine quantifiable relationships and error analysis of the collected data.
 
 ### Libraries and Software
 [SciPy]: <https://www.scipy.org/>
